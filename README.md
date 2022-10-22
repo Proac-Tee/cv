@@ -1,1 +1,1 @@
-# This is my cv website.
+# This is my personal resume using HTML and CSS.
